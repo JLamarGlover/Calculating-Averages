@@ -1,0 +1,21 @@
+C:\Users\juand\Desktop\Specific Number\Specific Number\obj\Debug\Specific Number.csprojAssemblyReference.cache
+C:\Users\juand\Desktop\Specific Number\Specific Number\obj\Debug\Specific Number.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Specific Number\Specific Number\bin\Debug\Specific Number.exe.config
+C:\Users\juand\Desktop\Specific Number\Specific Number\bin\Debug\Specific Number.exe
+C:\Users\juand\Desktop\Specific Number\Specific Number\bin\Debug\Specific Number.pdb
+C:\Users\juand\Desktop\Specific Number\Specific Number\obj\Debug\Specific Number.exe
+C:\Users\juand\Desktop\Specific Number\Specific Number\obj\Debug\Specific Number.pdb
+C:\Users\juand\Desktop\Calculating Averages\Specific Number\Specific Number\bin\Debug\Specific Number.exe.config
+C:\Users\juand\Desktop\Calculating Averages\Specific Number\Specific Number\bin\Debug\Specific Number.exe
+C:\Users\juand\Desktop\Calculating Averages\Specific Number\Specific Number\bin\Debug\Specific Number.pdb
+C:\Users\juand\Desktop\Calculating Averages\Specific Number\Specific Number\obj\Debug\Specific Number.csprojAssemblyReference.cache
+C:\Users\juand\Desktop\Calculating Averages\Specific Number\Specific Number\obj\Debug\Specific Number.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Calculating Averages\Specific Number\Specific Number\obj\Debug\Specific Number.exe
+C:\Users\juand\Desktop\Calculating Averages\Specific Number\Specific Number\obj\Debug\Specific Number.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Specific Number\Specific Number\bin\Debug\Specific Number.exe.config
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Specific Number\Specific Number\bin\Debug\Specific Number.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Specific Number\Specific Number\bin\Debug\Specific Number.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Specific Number\Specific Number\obj\Debug\Specific Number.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Specific Number\Specific Number\obj\Debug\Specific Number.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Specific Number\Specific Number\obj\Debug\Specific Number.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Specific Number\Specific Number\obj\Debug\Specific Number.pdb

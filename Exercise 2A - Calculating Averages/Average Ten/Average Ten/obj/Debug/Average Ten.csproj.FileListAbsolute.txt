@@ -1,0 +1,21 @@
+C:\Users\juand\Desktop\Average Ten\Average Ten\bin\Debug\Average Ten.exe.config
+C:\Users\juand\Desktop\Average Ten\Average Ten\bin\Debug\Average Ten.exe
+C:\Users\juand\Desktop\Average Ten\Average Ten\bin\Debug\Average Ten.pdb
+C:\Users\juand\Desktop\Average Ten\Average Ten\obj\Debug\Average Ten.csprojAssemblyReference.cache
+C:\Users\juand\Desktop\Average Ten\Average Ten\obj\Debug\Average Ten.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Average Ten\Average Ten\obj\Debug\Average Ten.exe
+C:\Users\juand\Desktop\Average Ten\Average Ten\obj\Debug\Average Ten.pdb
+C:\Users\juand\Desktop\Calculating Averages\Average Ten\Average Ten\bin\Debug\Average Ten.exe.config
+C:\Users\juand\Desktop\Calculating Averages\Average Ten\Average Ten\bin\Debug\Average Ten.exe
+C:\Users\juand\Desktop\Calculating Averages\Average Ten\Average Ten\bin\Debug\Average Ten.pdb
+C:\Users\juand\Desktop\Calculating Averages\Average Ten\Average Ten\obj\Debug\Average Ten.csprojAssemblyReference.cache
+C:\Users\juand\Desktop\Calculating Averages\Average Ten\Average Ten\obj\Debug\Average Ten.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Calculating Averages\Average Ten\Average Ten\obj\Debug\Average Ten.exe
+C:\Users\juand\Desktop\Calculating Averages\Average Ten\Average Ten\obj\Debug\Average Ten.pdb
+C:\Users\LamarGlover\Documents\Meow\Average Ten\Average Ten\bin\Debug\Average Ten.exe.config
+C:\Users\LamarGlover\Documents\Meow\Average Ten\Average Ten\bin\Debug\Average Ten.exe
+C:\Users\LamarGlover\Documents\Meow\Average Ten\Average Ten\bin\Debug\Average Ten.pdb
+C:\Users\LamarGlover\Documents\Meow\Average Ten\Average Ten\obj\Debug\Average Ten.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Documents\Meow\Average Ten\Average Ten\obj\Debug\Average Ten.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Documents\Meow\Average Ten\Average Ten\obj\Debug\Average Ten.exe
+C:\Users\LamarGlover\Documents\Meow\Average Ten\Average Ten\obj\Debug\Average Ten.pdb

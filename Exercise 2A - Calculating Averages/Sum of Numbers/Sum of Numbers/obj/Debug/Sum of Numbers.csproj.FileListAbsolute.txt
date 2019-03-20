@@ -1,0 +1,14 @@
+C:\Users\juand\Desktop\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\juand\Desktop\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+C:\Users\juand\Desktop\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+C:\Users\juand\Desktop\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csprojAssemblyReference.cache
+C:\Users\juand\Desktop\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\juand\Desktop\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\juand\Desktop\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe.config
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Sum of Numbers\Sum of Numbers\bin\Debug\Sum of Numbers.pdb
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csprojAssemblyReference.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.exe
+C:\Users\LamarGlover\Desktop\Exercises\Jan 19 Exercise 2A\Exercise 2A - Calculating Averages\Sum of Numbers\Sum of Numbers\obj\Debug\Sum of Numbers.pdb
